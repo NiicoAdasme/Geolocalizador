@@ -24,6 +24,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
+      },
+      "application": {
+        "name": "com.google.android.geo.API_KEY",
+        "value": "AIzaSyDLP1QgCr3UV32iIt7C1Kto7bM6KmseXwk"
       }
     },
     "web": {
